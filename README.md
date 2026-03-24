@@ -32,10 +32,10 @@ The objective is to build, test, and document security solutions as if they were
 
 | Area | Description |
 |------|------------|
-| ☁️ `cloud-security/` | Azure labs: IAM/RBAC, monitoring, logging, secrets |
-| 🔐 `security-operations/` | Threat detection, log analysis, MITRE ATT&CK |
-| 🖥️ `systems-hardening/` | Linux/Windows hardening, policies, access control |
-| 🚀 `projects/` | Python tools, automation, security utilities |
+| ☁️ cloud-security | Azure labs: IAM/RBAC, monitoring, logging, secrets |
+| 🔐 security-operations | Threat detection, log analysis, MITRE ATT&CK |
+| 🖥️ systems-hardening | Linux/Windows hardening, policies, access control |
+| 🚀 projects | Python tools, automation, security utilities |
 
 ---
 
