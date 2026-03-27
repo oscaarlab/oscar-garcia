@@ -61,7 +61,7 @@ You’ll find practical work such as Azure security labs, Linux hardening, and P
 ```
 
 
-## 🎯 Focus Areas
+## Focus Areas
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Cloud Security](https://img.shields.io/badge/Cloud_Security-111111?style=flat&logo=icloud&logoColor=white)
