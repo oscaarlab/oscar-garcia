@@ -1,6 +1,6 @@
 ![Banner](./assets/banner.jpg)
 
-## Hi, I'm Oscar García 👋
+## Hi, I'm Oscar García!
 
 I’m in the final stage of my Computer Systems Engineering degree and transitioning into **Cloud Security Engineering**.
 
@@ -14,56 +14,52 @@ Currently: **AZ-900** (in progress) + **IBM Cybersecurity Analyst** + **Red Hat 
 
 ---
 
-## 🏗️ What I’m Building
+### 📌 About This Profile
 
-| Area | Focus |
-|---|---|
-| ☁️ **Cloud Security** | Identity & Access Management (IAM/RBAC) · Secure configurations · Resource access control |
-| 🖥️ **Systems Hardening** | Linux (RHEL) · SSH security · Access control enforcement · CIS-aligned practices |
-| 🔒 **Security Operations** | Log analysis · Threat detection · Event investigation · MITRE ATT&CK mapping |
-| 🚀 **Automation & Tooling** | Python-based security tools · Log parsing · Detection workflows | 
+This profile documents and showcases hands-on labs and security tooling as I learn and apply them in real-world scenarios.
 
----
+Everything here is focused on becoming a Cloud Security Engineer, with emphasis on banking and financial environments.
 
-## 🧪 Projects & Labs
-
-### 🔐 Windows Defender Hardening
-> Implemented endpoint protection policies, real-time scanning, and controlled malware detection scenarios to simulate **enterprise-level endpoint security controls**.
-
-### 🔬 Linux Access Control & Hardening
-> Configured user and group management, file permission models, and access restrictions to enforce **system-level security and least privilege principles** in RHEL environments.
-
-### ☁️ Azure IAM & RBAC (In Progress)
-> Designing and implementing role-based access control (RBAC) and identity management to **secure access to cloud resources and enforce identity boundaries**.
+You’ll find practical work such as Azure security labs, Linux hardening, and Python/AI-assisted security tools.
 
 ---
 
-## 🧠 Repository Structure
+### What I’m Building
 
-| Area | Description |
-|------|------------|
-| ☁️ cloud-security | Azure labs: IAM/RBAC, monitoring, logging, secrets |
-| 🔐 security-operations | Threat detection, log analysis, MITRE ATT&CK |
-| 🖥️ systems-hardening | Linux/Windows hardening, policies, access control |
-| 🚀 projects | Python tools, automation, security utilities |
+🟦 **Azure Security Labs**  
+→ IAM/RBAC · Logging/Monitoring · Secrets · Baseline hardening  
 
----
+🟥 **Linux (RHEL) Hardening**  
+→ Hardening notes · CIS-style checklists · Audit & access controls  
 
-## 🧰 Stack
-
-**Cloud & Infrastructure**  
-Azure · Linux (RHEL) · Virtual Machines · Containers  
-
-**Languages & Scripting**  
-Python · Bash · PowerShell  
-
-**Security Domains**  
-Identity & Access Management · System Hardening · Threat Detection  
-
-**Environments**  
-Virtualized labs · Isolated environments for security testing
+🟨 **Python Security Tools**  
+→ Triage helpers · Log parsing · Reporting · Detection utilities  
 
 ---
+
+### Repository Structure
+```
+☁️ cloud-security/
+├── identity-access-management/
+├── logging-monitoring/
+└── secrets-management/
+
+🔐 security-operations/
+├── threat-detection/
+├── log-analysis
+└── mitre-attack-mapping/
+
+🖥️ systems-hardening/
+├── linux-rhel/
+├── windows-security/
+└── access-control
+
+🚀 projects/
+├── python-security-tools/
+├── automation/
+└── security-utilities/
+```
+
 
 ## 🎯 Focus Areas
 
@@ -73,18 +69,6 @@ Virtualized labs · Isolated environments for security testing
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_for_Security-6A5ACD?style=flat&logo=openai&logoColor=white)
 ![Banking](https://img.shields.io/badge/Banking/Finance-0B7285?style=flat&logo=moneygram&logoColor=white)
-
----
-
-## 📌 About This Profile
-
-This repository showcases hands-on labs and security implementations designed to reflect real-world Cloud Security practices.
-
-All work is structured around scenarios commonly found in **banking and regulated environments**, with focus on access control, monitoring, system hardening, and threat detection.
-
-Labs are developed and tested in **controlled environments** using **virtual machines and containerized setups**, ensuring safe and reproducible security experimentation.
-
-Each lab represents practical execution aligned with how security engineers operate in production systems.
 
 ---
 
