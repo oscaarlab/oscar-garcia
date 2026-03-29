@@ -74,4 +74,4 @@ Hands-on labs built around real-world scenarios and compliance frameworks (PCI-D
 - **Red Hat Enterprise Linux Fundamentals** — Red Hat *(in progress)*
 ---
 
-📫 **oscaargarci@gmail.com** · [LinkedIn](https://www.linkedin.com/in/oscar-garcía-mencía-580267248)
+📫 **oscaargarci@gmail.com** · [**LinkedIn**](https://www.linkedin.com/in/oscar-garcía-mencía-580267248)
