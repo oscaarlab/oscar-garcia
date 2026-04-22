@@ -48,8 +48,11 @@ This section is being built around Azure-based security implementations such as:
 
 ### Available Labs
 
-- **[Azure VM deployment with secure SSH access](./azure-vm-secure-ssh/azure-vm-secure-ssh.md)**
+- **[Azure VM deployment with secure SSH access](./azure-vm-secure-ssh/README.md)**
 Secure Azure VM deployment with SSH hardening, NSG restrictions, and firewall validation.
 
-- **[Azure Policy + Defender for Cloud Governance Baseline](./azure-policy-defender/azure-policy-defender.md)**
+- **[Azure Policy + Defender for Cloud Governance Baseline](./azure-policy-defender/README.md)**
 Governance baseline with Azure Policy tag enforcement, regional restrictions, and Defender for Cloud visibility.
+
+- **[Azure Key Vault + Managed Identity for Internal Banking App Configuration](./azure-key-vault/README.md)**
+  Secure secret management pattern using Azure Key Vault, Managed Identity, RBAC, and Azure App Service for an internal banking-style application.

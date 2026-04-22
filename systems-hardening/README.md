@@ -50,20 +50,20 @@ This section is currently focused on:
 
 ### Available Labs
 
-- **[Windows Defender Hardening](./windows-defender-lab/windows-defender-lab.md)**  
+- **[Windows Defender Hardening](./windows-defender-lab/README.md)**  
   Endpoint protection configuration, real-time scanning, and malware detection validation.
 
-- **[Windows Firewall Hardening](./windows-firewall-lab/windows-firewall-lab.md)**  
+- **[Windows Firewall Hardening](./windows-firewall-lab/README.md)**  
   Inbound/outbound traffic control, port filtering, and network profile enforcement.
 
-- **[Password Policy Enforcement](./windows-password-policy-lab/windows-password-policy-lab.md)**  
+- **[Password Policy Enforcement](./windows-password-policy-lab/README.md)**  
   Local Group Policy configuration for strong password requirements and account security.
 
-- **[Windows Update Management](./windows-update-lab/windows-update-lab.md)**  
+- **[Windows Update Management](./windows-update-lab/README.md)**  
   Patch management validation and system update verification using Windows Update.
 
-- **[DHCP Server Configuration](./dhcp-server-configuration/dhcp-server-configuration.md)**
+- **[DHCP Server Configuration](./dhcp-server-configuration/README.md)**
   DHCP role deployment, IPv4 scope creation, exclusion range configuration, and lease management on Windows Server.
 
-- **[DNS Filtering](./dns-filtering/dns-filtering.md)**
+- **[DNS Filtering](./dns-filtering/README.md)**
   Outbound firewall rule creation to restrict DNS traffic and strengthen network traffic control in Windows.
