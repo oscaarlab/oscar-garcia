@@ -67,3 +67,6 @@ This section is currently focused on:
 
 - **[DNS Filtering](./dns-filtering/README.md)**
   Outbound firewall rule creation to restrict DNS traffic and strengthen network traffic control in Windows.
+
+- **[Secure Web Server Deployment on RHEL](./rhel-secure-web-server/README.md)**
+Security-conscious RHEL web server deployment with SSH hardening, SELinux validation, firewalld restrictions, Nginx service validation, logging review, and Chrony time synchronization.

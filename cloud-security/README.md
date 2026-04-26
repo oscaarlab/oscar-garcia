@@ -56,3 +56,6 @@ Governance baseline with Azure Policy tag enforcement, regional restrictions, an
 
 - **[Azure Key Vault + Managed Identity for Internal Banking App Configuration](./azure-key-vault/README.md)**
   Secure secret management pattern using Azure Key Vault, Managed Identity, RBAC, and Azure App Service for an internal banking-style application.
+
+- **[Azure Bastion Secure VM Access](./azure-bastion-secure-vm-access/README.md)**
+Secure administrative access to a private Azure Linux VM using Azure Bastion, without public IP exposure or open inbound SSH ports.
